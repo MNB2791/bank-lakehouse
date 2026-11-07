@@ -1,1 +1,0 @@
-Databricks to GitHub works
